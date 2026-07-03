@@ -49,11 +49,11 @@ class DataAnalyst:
 
 ### 🎓 Education
 
-| Qualification | Institute | Year |
-|----------------|-----------|------|
-| Bachelor of Computer Applications (BCA) | Chandigarh University | Dec 2024 |
-| Higher Secondary (12th) | CBSE, New Delhi | 2021 |
-| Secondary School (10th) | CBSE, New Delhi | 2019 |
+| Qualification | Institute |
+|----------------|-----------|
+| Bachelor of Computer Applications (BCA) | Chandigarh University |
+| Higher Secondary (12th) | CBSE, New Delhi |
+| Secondary School (10th) | CBSE, New Delhi |
 
 ---
 
