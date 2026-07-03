@@ -19,7 +19,7 @@ Turning Raw Data Into Real Decisions 📊
 class DataAnalyst:
     name        = "Mohit Marwah"
     role        = "Data Analyst | Aspiring Data Scientist"
-    education   = "BCA - Chandigarh University (Distinction)"
+    education   = "BCA - Chandigarh University"
     location    = "New Delhi, India"
 
     languages   = ["Python", "SQL"]
@@ -51,7 +51,7 @@ class DataAnalyst:
 
 | Qualification | Institute | Year |
 |----------------|-----------|------|
-| Bachelor of Computer Applications (BCA) | Chandigarh University | Dec 2024 (Distinction) |
+| Bachelor of Computer Applications (BCA) | Chandigarh University | Dec 2024 |
 | Higher Secondary (12th) | CBSE, New Delhi | 2021 |
 | Secondary School (10th) | CBSE, New Delhi | 2019 |
 
@@ -61,7 +61,7 @@ class DataAnalyst:
 
 | Platform | Certification | Status |
 |----------|----------------|--------|
-| Data Science Specialization | Python, Pandas, Power BI, SQL, Data Visualization | In Progress (Expected Nov 2025) |
+| Data Science Specialization | Python, Pandas, Power BI, SQL, Data Visualization | In Progress 70% |
 
 ---
 
